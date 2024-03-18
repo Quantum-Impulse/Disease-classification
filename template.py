@@ -24,7 +24,8 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    "templates/index.html"
+    "templates/index.html",
+    "template/index.html",
 ]
 
 # go through the list of files and create them if they don't exist
